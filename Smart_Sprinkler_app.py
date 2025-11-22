@@ -42,7 +42,7 @@ st.markdown("""
 
 
 #Load the trained model
-model = joblib.load("Farm_Irrigation_System.pkl")
+model = joblib.load("Farm_Irrigation_system.pkl")
 
 st.title("Smart Sprinkler System")
 st.subheader("Enter scaled sensor values (0 to 1) to predict sprinkler status")
