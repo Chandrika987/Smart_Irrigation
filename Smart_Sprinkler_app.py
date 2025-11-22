@@ -4,6 +4,7 @@ import joblib
 
 import streamlit.components.v1 as components
 
+
 st.markdown("<h1 style='color:green;'>Welcome to My Smart Sprinkler App</h1>", unsafe_allow_html=True)
 st.markdown("<p>Water Wisely, Grow Better 🌱</p>", unsafe_allow_html=True)
 
@@ -15,7 +16,7 @@ st.markdown("""
         font-weight: bold;
     }
     .my-box {
-        background-color: #f0f0f0;
+        background-color: lightblue;
         padding: 20px;
         border-radius: 12px;
     }
