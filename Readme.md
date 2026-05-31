@@ -22,9 +22,7 @@ The project includes:
 
 ## 🚀 **Live Demo**
 
-🌐 **Streamlit App:**
-[https://smartirrigation-vkwxvp488mdduptgmjrhbt.streamlit.app/](https://smartirrigation-vkwxvp488mdduptgmjrhbt.streamlit.app/)
-
+🌐 [Live Demo](https://smartirrigation-9mx8a6k5fopgzyk55hkpef.streamlit.app/)
 📂 **GitHub Repository:**
 [https://github.com/Chandrika987/Smart_Irrigation](https://github.com/Chandrika987/Smart_Irrigation)
 
