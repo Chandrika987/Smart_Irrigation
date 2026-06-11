@@ -151,10 +151,6 @@ The UI is custom-designed to ensure:
 
 ---
 
-# 👩‍💻 **Author**
-
-**Chandrika Pala**
-🌍 India
 
 ---
 
