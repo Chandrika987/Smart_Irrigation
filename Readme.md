@@ -20,7 +20,7 @@ The project includes:
 
 ---
 
-## 🚀 **Live Demo**
+
 
 🌐 [Live Demo](https://smartirrigation-9mx8a6k5fopgzyk55hkpef.streamlit.app/)
 
